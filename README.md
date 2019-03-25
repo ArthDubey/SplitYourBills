@@ -23,8 +23,7 @@ python3 try.py
 
 
 ## Running the tests
-
-It is explained in installing Getting started
+1. It starts with assumption of 4 friends, named a,b,c,d and you can add or remove freinds as you move forward.
 
 
 ## Contributing
