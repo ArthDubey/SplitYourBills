@@ -2,15 +2,13 @@
 # Aim
 Payment distribution console based application.
 
-This Project aims to build an image classifier that requires substiantially low computational power and is extremely high paced.
-However the trade off being that it's accuracy is somewhere around 76-81%. This is suitable for general purpose uses in heavy
-pipelines where computational power is the bottleneck.
+This Project aims to build a payment app for any transaction occuring between a group of people.
 
 ## Getting Started
 
 Clone the repository in your system and follow these steps-
 1. Check if the requirements are satisfied.
-2. Run the script try.py.
+2. Run the script try.py in your terminal, or run the script from your IDLE.
 ```
 python3 try.py
 ```
@@ -21,13 +19,12 @@ python3 try.py
 
 1.Python 3.5 or above
 
-Note- All of these can be easily installed via pip
 
 
 
 ## Running the tests
 
-It is explained in installing subsection
+It is explained in installing Getting started
 
 
 ## Contributing
